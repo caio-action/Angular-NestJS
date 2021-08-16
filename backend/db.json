@@ -1,0 +1,191 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta bic",
+      "price": "5.89"
+    },
+    {
+      "id": 2,
+      "name": "geladeira",
+      "price": "3.000"
+    },
+    {
+      "id": 2,
+      "name": "Tv seila",
+      "price": "5.000"
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 3
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 6
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 7
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 10
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 11
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 12
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 13
+    },
+    {
+      "name": "veio daq",
+      "price": "10000",
+      "id": 14
+    },
+    {
+      "name": "ohohoho",
+      "price": "123.40",
+      "id": 15
+    },
+    {
+      "name": "lápis preto",
+      "price": "2.50",
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Blabla",
+      "email": "blablabla@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Blabla",
+      "email": "blablaoe@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Blabla",
+      "email": "blablaola@gmail.com"
+    },
+    {
+      "name": "",
+      "email": "blablabla@gmaill.com",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "blablabla@gmaillll.com",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "caio.action@blablabla.com",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "caio.action@blablabla.com",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "caio.action@hotmail.com",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "caio.action@hotmail.com",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "caio.action@hotmail.com",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "caio.action@hotmail.com",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "@hotmail.com",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "@hotmail.com",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 18
+    },
+    {
+      "name": "papai noel",
+      "email": "santaklausbarbudao@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "mamãe noel",
+      "email": "boladona@hotmail.com",
+      "id": 20
+    }
+  ]
+}
